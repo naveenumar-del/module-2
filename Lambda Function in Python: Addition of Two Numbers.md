@@ -26,6 +26,7 @@ print(result)
 
 Output
 
+<img width="1140" height="254" alt="image" src="https://github.com/user-attachments/assets/15d14ca4-826c-4d6b-9cfb-0576c5f9e08a" />
 
 
 Result:
