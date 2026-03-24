@@ -32,6 +32,7 @@ print(result(a, b))
 
 Output
 
+<img width="1181" height="278" alt="image" src="https://github.com/user-attachments/assets/3c1916d4-67c2-41d8-b8a1-3f3e69d72741" />
 
 
 Result:
